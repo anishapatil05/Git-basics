@@ -1,5 +1,5 @@
 # Git-basics
-* This repository contains basic Git commands and notes I used during my learning.
+* This repository contains basic Git commands I used during my learning.
 
 # Git Configuration :
 git config --global user.name "Your Name"
